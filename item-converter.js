@@ -12,5 +12,6 @@ module.exports = (textInput) => {
                     quality
                 };
             }
-        });  
+        })
+        .filter(item => !!item);
 };
