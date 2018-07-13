@@ -1,0 +1,19 @@
+{
+  "name": "gildedrose",
+  "version": "1.0.0",
+  "description": "gilded rose assessment",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonchr/gilded-rose.git"
+  },
+  "author": "dillonchr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillonchr/gilded-rose/issues"
+  },
+  "homepage": "https://github.com/dillonchr/gilded-rose#readme"
+}
